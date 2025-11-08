@@ -2,7 +2,7 @@
 
 ## Overview
 
-This dataset contains paraphrased captions for the Something-Something-V2 training set, generated to provide diverse caption variations while maintaining semantic consistency with the original annotations.I can generate paraphrases for validation too if there's interest.
+This dataset contains paraphrased captions for the Something-Something-V2 (https://cv.gluon.ai/build/examples_datasets/somethingsomethingv2.html) training set, generated to provide diverse caption variations while maintaining semantic consistency with the original annotations.I can generate paraphrases for validation too if there's interest.
 
 ## Statistics
 
